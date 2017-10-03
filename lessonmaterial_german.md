@@ -11,5 +11,6 @@ Baue alles auf wie auf dem untenstehenden Foto gezeigt und stelle sicher, dass d
 
 [insert image]
 
-## Beispiel 1: Einschalten einer LED mit Hilfe von GPIO-Pins
+## Beispiel 1: Einschalten einer LED Lampe mit Hilfe von GPIO-Pins
 
+Verbinde zuerst eine LED Lampe mit dem Pi. Versichere Dich, dass der Pi ausgeschalten ist indem Du das Netzkabel entfernst. Verbinde dann die LED Lampe mit dem Pi wie auf dem Foto zu sehen.
