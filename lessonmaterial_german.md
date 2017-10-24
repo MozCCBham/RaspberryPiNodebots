@@ -38,3 +38,40 @@ ein. Die Lampe sollte blinken. Ist dies nicht der Fall, tausche die Kabelverbind
 Ändere den Code so, dass sich das Blinkverhalten der Lampe ändert. Der Code befindet sich in der index.js Datei die Du schon in einem früheren Schritt geöffnet hast.  
 
 ## Beispiel 2: Betreibe einen Webserver auf dem Raspberry Pi
+
+Führe das Skript aus indem Du
+
+node index.js 
+
+eingibst.
+
+Das Skript started einen Webserver. Das Beispiel beinhaltet 2 Seiten:
+
+- eine Startseite /
+- eine Willkommensseite /hello
+
+In einem Internetbrowser, oeffne  die Seite 
+
+localhost:3000/
+
+Du solltest die Nachricht "Hello World" sehen. Navigiere zur zweiten Seite
+
+localhost:3000/hello
+
+Du solltest die Nachricht "Hello there, how are you?" sehen.
+
+Um mit Deinem Smartphone auf den Webserver im gleichen Netzwerk zuzugreifen, benoetigst Du die IP-Adresse Deines Raspberry Pi.
+
+
+## Aufgabe
+
+Kannst Du eine dritte Seite mit der URL /goodbye und einer lustigen Nachricht hinzufügen?
+
+### Beispiel 3: Steuere einen Pi-Roboter von einer Webseite
+
+In diesem Beispiel betreiben wir einen Webserver auf dem Raspberry Pi, der den Roboter kontrolliert.
+
+Navigiere zum Terminal und wechsle in das Verzeichnis
+
+cd 
+
