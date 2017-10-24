@@ -85,5 +85,9 @@ Das Skripts started einen Webserver und bieted Pfade um den Roboter vorwärts un
 Versuche den Code mit den Pfaden /backwards und /right zu vervollständigen.
 
 
-### Weitere Aufgaben an denen Du Dich versuchen kannst
+### Weitere Aufgaben an denen Du Dich versuchen kannst:
+
+* 
+* Weitere Codebeispiele sind in unserem GitHub Repositorium zu finden: https://github.com/MozCCBham/
+
 
