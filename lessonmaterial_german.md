@@ -50,7 +50,7 @@ Das Skript started einen Webserver. Das Beispiel beinhaltet 2 Seiten:
 - eine Startseite /
 - eine Willkommensseite /hello
 
-In einem Internetbrowser, oeffne  die Seite 
+In einem Internetbrowser, öffne die Seite 
 
 localhost:3000/
 
@@ -60,18 +60,30 @@ localhost:3000/hello
 
 Du solltest die Nachricht "Hello there, how are you?" sehen.
 
-Um mit Deinem Smartphone auf den Webserver im gleichen Netzwerk zuzugreifen, benoetigst Du die IP-Adresse Deines Raspberry Pi.
+Um mit Deinem Smartphone auf den Webserver im gleichen Netzwerk zuzugreifen, benötigst Du die IP-Adresse Deines Raspberry Pi.
 
 
-## Aufgabe
+### Aufgabe
 
 Kannst Du eine dritte Seite mit der URL /goodbye und einer lustigen Nachricht hinzufügen?
 
-### Beispiel 3: Steuere einen Pi-Roboter von einer Webseite
+## Beispiel 3: Steuere einen Pi-Roboter von einer Webseite
 
 In diesem Beispiel betreiben wir einen Webserver auf dem Raspberry Pi, der den Roboter kontrolliert.
 
 Navigiere zum Terminal und wechsle in das Verzeichnis
 
 cd 
+
+node index.js 
+
+Das Skripts started einen Webserver und bieted Pfade um den Roboter vorwärts und nach links zu lenken.
+
+
+### Aufgabe
+
+Versuche den Code mit den Pfaden /backwards und /right zu vervollständigen.
+
+
+### Weitere Aufgaben an denen Du Dich versuchen kannst
 
