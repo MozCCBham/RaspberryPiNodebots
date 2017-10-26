@@ -25,7 +25,7 @@ In your kit, you will find a circuit board with an LED and a resistor.
 
 First, we need to connect an LED to the Pi. You need to connect the wires to pins 5 and 6. You might find the pin diagram below useful.
 
-![GPIO pin layout](/images/GPIO-PINLayout.png?raw=true)
+![GPIO pin layout](/images/GPIO_PinLayout.png?raw=true)
 
 The starting code for the example is on the desktop in the nodebots folder. Open this folder and open example 1. In this folder, you will find a file called `index.js`.
 
