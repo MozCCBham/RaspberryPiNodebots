@@ -7,7 +7,7 @@ by the Mozilla Campus Club Birmingham (mozccbham.org).
 ![University of Birmingham](/images/uob_logo.png?raw=true)
 
 
-This set of lessons will show you some of the basics on Node.js and Raspberry Pi for robotics.
+This set of lessons will show you some of the basics of Node.js and Raspberry Pi for robotics and IoT.
 
 ## Setup: Checking everything works
 
