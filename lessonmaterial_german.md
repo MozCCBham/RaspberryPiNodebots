@@ -24,7 +24,7 @@ Um den Pi-Top anzuschalten, drücke den grünen Anschaltknopf auf der Rückseite
 
 In Deinem Bausatz solltest Du eine Schalterplatte mit einer LED und einem Resistor vorfinden. 
 
-![Pi-top desktop](/images/PiDesktop.jpg?raw=true)
+![LED circuit](/images/Circuit.jpg?raw=true)
 
 Verbinde zuerst die LED Lampe mit dem Pi indem Du die Kabel mit Stift 5 und 6 verbindest. Das Diagram könnte dabei hilfreich sein. 
 
