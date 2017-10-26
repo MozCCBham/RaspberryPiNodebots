@@ -1,5 +1,7 @@
 # Raspberry Pi Nodebots
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 by the Mozilla Campus Club Birmingham (mozccbham.org).
 
 ![University of Birmingham](/images/uob_logo.png?raw=true)
