@@ -2,7 +2,7 @@
 
 by the Mozilla Campus Club Birmingham (mozccbham.org).
 
-![University of Birmingham](/relative/path/to/img.jpg?raw=true)
+![University of Birmingham](/images/uob_logo.png?raw=true)
 
 
 This set of lessons will show you some of the basics on Node.js and Raspberry Pi for robotics.
@@ -25,7 +25,7 @@ In your kit, you will find a circuit board with an LED and a resistor.
 
 First, we need to connect an LED to the Pi. You need to connect the wires to pins 5 and 6. You might find the pin diagram below useful.
 
-![GPIO pin layout](/relative/path/to/img.jpg?raw=true "Optional Title")
+![GPIO pin layout](/images/GPIO-PINLayout.png?raw=true)
 
 The starting code for the example is on the desktop in the nodebots folder. Open this folder and open example 1. In this folder, you will find a file called `index.js`.
 
@@ -72,7 +72,7 @@ You should now see "Hello there, how are you?".
 
 To access the webserver from your smartphone on the same network you will need the address of your Pi. In the top right corner of the Pi screen, hover over the network icon and it will tell you the address of your Pi.
 
-![IP address](/relative/path/to/img.jpg?raw=true "Optional Title")
+![IP address](/images/IP_address.jpg?raw=true)
 
 On your phone's browser navigate to
 
@@ -88,7 +88,7 @@ See if you can add a third page at `/goodbye` that says something fun.
 
 In this example, we are going to run a web server on the raspberry pi that can control the robot.  Begin by plugging the robot into the pi-top and raising its wheels off the table, as shown below.
 
-![Robot setup with wheels raised](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Robot setup with wheels raised](/images/Robot.jpg?raw=true)
 
 Go to the terminal and change the directory by typing
 
