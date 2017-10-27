@@ -10,6 +10,7 @@ var leftPin2 = 8
 var rightPin1 = 9
 var rightPin2 = 10
 
+//  Set pins up for output
 wpi.pinMode(leftPin1, wpi.OUTPUT)
 wpi.pinMode(leftPin2, wpi.OUTPUT)
 wpi.pinMode(rightPin1, wpi.OUTPUT)
